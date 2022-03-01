@@ -1,0 +1,42 @@
+﻿  Source.cpp
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Scott\Documents\SNHU\CS330\1\OpenGL\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(13,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(88,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(98,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(99,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(315,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(316,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(317,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(324,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(325,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(326,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(333,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(334,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(335,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(342,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(343,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(344,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(353,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(359,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(375,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(375,40): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(377,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(377,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(378,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(395,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(401,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(410,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(418,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(438,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(448,2): warning C4551: function call missing argument list
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(463,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(472,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\OpenGLSample_Module8\Source.cpp(480,20): warning C4305: '+=': truncation from 'double' to 'float'
+  OpenGLSample_Module8.vcxproj -> C:\Users\Scott\Documents\SNHU\CS330\8\OpenGLSample_Module8\Debug\OpenGLSample_Module8.exe
